@@ -37,3 +37,7 @@ En **[ConfiguroWeb](https://configuroweb.com)** encontrarás más [herramientas 
 ---
 
 &copy; 2026 ConfiguroWeb. Herramientas de uso libre con persistencia local segura.
+
+## Colección de Herramientas
+
+[30 Aplicaciones Web Gratis Online Sin Registro - ConfiguroWeb](https://configuroweb.com/30-aplicaciones-web-gratis-online-sin-registro-configuroweb)
